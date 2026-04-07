@@ -15,6 +15,15 @@ public class VariableApp {
         System.out.println(niceSaying);
 
         //Step 2
+        int daysInWeek = 7;
+        double coffeePrice = 4.99;
+        char favLetter = 'G';
+        boolean isRaining = true;
+        System.out.println("the answer for days in a week is " + daysInWeek);
+        System.out.println("The answer for the price of coffee is " + coffeePrice);
+        System.out.println("My favorite letter is " + favLetter);
+        System.out.println("When asked if it was raining or not the weatherman confirmed that was " + isRaining);
+
 
     }
 }
